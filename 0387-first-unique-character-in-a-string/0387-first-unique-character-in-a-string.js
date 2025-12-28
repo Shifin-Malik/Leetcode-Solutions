@@ -3,10 +3,10 @@
  * @return {number}
  */
 var firstUniqChar = function(s) {
-    for(let i in s){
-        if(s.indexOf(s[i]) === s.lastIndexOf(s[i])){
-            return Number(i)
-        }
+  for(let i = 0; i < s.length; i++){
+    if(s.indexOf(s[i]) === s.lastIndexOf(s[i])){
+        return i
     }
-    return -1
-};
+  }
+  return -1
+}
