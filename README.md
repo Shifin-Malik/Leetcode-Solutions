@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0709-to-lower-case) |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
