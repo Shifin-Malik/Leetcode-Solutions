@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
