@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 ## Heap (Priority Queue)
