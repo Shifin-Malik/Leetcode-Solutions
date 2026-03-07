@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3668-restore-finishing-order](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Trie
 |  |
