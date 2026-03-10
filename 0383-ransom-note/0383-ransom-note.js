@@ -4,11 +4,11 @@
  * @return {boolean}
  */
 var canConstruct = function(ransomNote, magazine) {
-    for (let char of ransomNote) {
-        if (!magazine.includes(char)) {
-            return false;
-        }
-        magazine = magazine.replace(char, "");
-    }
-    return true;
+   for(let char of ransomNote){
+    if(!magazine.includes(char)){
+        return false
+    };
+    magazine = magazine.replace(char, "");
+   }
+   return true
 };
