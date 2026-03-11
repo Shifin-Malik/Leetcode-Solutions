@@ -4,18 +4,14 @@
  */
 var maximumWealth = function(accounts) {
    let max = 0;
-   
-   for(let cus of accounts){
-       let sum = 0;
-       
-       for(let mon of cus){
-           sum += mon
-       }
-       
+   for(let acc of accounts){
+    let sum = 0;
+    for(let mon of acc){
+       sum += mon;
        if(sum > max){
-           max = sum
-       };
-   };
-   
-   return max
+        max = sum
+       }
+    }
+   }
+    return max
 };
