@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1323-maximum-69-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
 | ------- |
