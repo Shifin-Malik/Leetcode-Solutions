@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1323-maximum-69-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
