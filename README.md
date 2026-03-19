@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
 |  |
