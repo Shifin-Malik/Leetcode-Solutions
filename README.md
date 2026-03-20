@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3110-score-of-a-string](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
