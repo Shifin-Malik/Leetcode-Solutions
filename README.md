@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3668-restore-finishing-order](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
+| [3701-compute-alternating-sum](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
