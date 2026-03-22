@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
+| [1929-concatenation-of-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
