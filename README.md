@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3467-transform-array-by-parity](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1323-maximum-69-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [1323-maximum-69-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
