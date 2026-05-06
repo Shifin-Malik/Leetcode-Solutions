@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1323-maximum-69-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1323-maximum-69-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
