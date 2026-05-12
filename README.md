@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2974-minimum-number-game](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
