@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3668-restore-finishing-order](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1859-sorting-the-sentence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3467-transform-array-by-parity](https://github.com/Shifin-Malik/Leetcode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Math
 |  |
